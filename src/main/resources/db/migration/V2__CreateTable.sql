@@ -1,0 +1,1 @@
+CREATE TABLE IF NOT EXISTS employeeschema.employee (employee_id INT NOT NULL PRIMARY KEY AUTO_INCREMENT, employee_name VARCHAR(100) NOT NULL, employee_department VARCHAR(100) NOT NULL);
